@@ -103,3 +103,16 @@ LeetCode/
     │
     └── ...
 ```
+
+### Array
+- √ Three Sum
+
+### Hash
+- √ Two Sum
+
+---
+### Total
+
+- Easy     1
+- Medium   1
+- Hard     0
