@@ -32,6 +32,8 @@ enable_testing()
 set(SOURCE_FILES
     Array/ThreeSum/ThreeSum.cpp
     Array/ThreeSum/ThreeSum.h
+    Hash/TwoNums/TwoNums.cpp
+    Hash/TwoNums/TwoNums.h
 )
 
 # set(TEST_FILES
