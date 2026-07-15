@@ -49,6 +49,8 @@ set(SOURCE_FILES
     Hash/LongestConsecutive/LongestConsecutive.h
     String/LongestPalindrome/LongestPalindrome.cpp
     String/LongestPalindrome/LongestPalindrome.h
+    String/FindSubString/FindSubString.cpp
+    String/FindSubString/FindSubString.h
 )
 
 add_executable(LeetCodeTests
