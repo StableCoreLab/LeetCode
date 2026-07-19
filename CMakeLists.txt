@@ -51,6 +51,8 @@ set(SOURCE_FILES
     String/LongestPalindrome/LongestPalindrome.h
     String/FindSubString/FindSubString.cpp
     String/FindSubString/FindSubString.h
+    LinkedList/MergeKLists/MergeKLists.cpp
+    LinkedList/MergeKLists/MergeKLists.h
 )
 
 add_executable(LeetCodeTests
