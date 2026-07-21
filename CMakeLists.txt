@@ -53,6 +53,10 @@ set(SOURCE_FILES
     String/FindSubString/FindSubString.h
     LinkedList/MergeKLists/MergeKLists.cpp
     LinkedList/MergeKLists/MergeKLists.h
+    LinkedList/ReverseKGroup/ReverseKGroup.cpp
+    LinkedList/ReverseKGroup/ReverseKGroup.h
+    stack/LongestValidParentheses/LongestValidParentheses.cpp
+    stack/LongestValidParentheses/LongestValidParentheses.h
 )
 
 add_executable(LeetCodeTests
