@@ -4,5 +4,6 @@
 class LongestValidParentheses
 {
 public:
-    int Solve(std::string s);
+    int Solve(const std::string& s);
+	int Solvedp(const std::string& s);
 };
