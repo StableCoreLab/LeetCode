@@ -72,6 +72,21 @@ LeetCode/
 |   |   |-- TwoNums.cpp
 |   |-- ...
 |
+|-- Matrix/
+|   |-- ValidSudoku/
+|   |   |-- ValidSudoku.h
+|   |   |-- ValidSudoku.cpp
+|
+|-- Backtracking/
+|-- |-- SudokuSolver/
+|   |   |-- SudokuSolver.h
+|   |   |-- SudokuSolver.cpp
+|
+|-- NQueens/
+|-- Permutations/
+|-- CombinationSum/
+|
+|-- RotateImage/
 |-- Stack/
 |
 |-- Queue/

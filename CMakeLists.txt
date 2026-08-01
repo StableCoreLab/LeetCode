@@ -57,6 +57,8 @@ set(SOURCE_FILES
     LinkedList/ReverseKGroup/ReverseKGroup.h
     stack/LongestValidParentheses/LongestValidParentheses.cpp
     stack/LongestValidParentheses/LongestValidParentheses.h
+    Matrix/ValidSudoku/Validsudoku.h
+    Matrix/ValidSudoku/Validsudoku.cpp
 )
 
 add_executable(LeetCodeTests
